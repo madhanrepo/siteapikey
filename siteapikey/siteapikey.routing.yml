@@ -1,0 +1,10 @@
+siteapikey.page:
+  path: '/jsonrepnode/{key}/{nid}'
+  defaults:
+    _controller: '\Drupal\siteapikey\Controller\PageValidate::jsonrepnode'
+  options:
+    parameters:
+      nid:
+        type: integer
+  requirements:
+    _permission: 'access content'

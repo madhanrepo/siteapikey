@@ -1,0 +1,7 @@
+name: SiteAPIKey
+type: module
+description: Custom module to manage Site API Key 
+core: 8.x
+
+dependencies:
+  - serialization
