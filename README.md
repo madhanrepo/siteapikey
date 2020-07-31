@@ -17,7 +17,7 @@ As per the requirement, below tasks are created using this custom module:<br/>
 Dependency:<br/>
 Serialization module<br/>
 
-Demo uRLs:<br/>
+Demo URLs:<br/>
 Site Inforamtion form:<br/>
 http://localhost/mysite/admin/config/system/site-information<br/>
 
