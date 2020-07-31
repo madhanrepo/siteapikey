@@ -18,7 +18,7 @@ Dependency:<br/>
 Serialization module<br/>
 
 Demo URLs:<br/>
-Site Inforamtion form:<br/>
+Site Information form:<br/>
 http://localhost/mysite/admin/config/system/site-information<br/>
 
 URL to provide JSON representation of a node:<br/>
